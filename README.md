@@ -1,4 +1,4 @@
-### Olá, eu sou o Rafael Dias :) !!!
+### Hi, I'm Rafael Dias :) !!!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
