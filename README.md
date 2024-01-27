@@ -1,4 +1,6 @@
-<h1 align=center>I'm Rafael Dias, Web and Mobile Developer</h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Web+and+Mobile+Developer;+Rafael+Dias;" />
+</h1>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <div style="display: inline_block"><br>
