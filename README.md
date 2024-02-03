@@ -1,8 +1,6 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Web+and+Mobile+Developer;+Rafael+Dias;" />
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=60&duration=3000&pause=1000&color=F27289&center=true&vCenter=true&random=false&width=1000&height=80&lines=Rafael+Dias;Web+and+Mobile+developer" alt="Typing SVG" /></a></h1>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <div style="display: inline_block"><br>
   <h2>Languages and Tools</h2>
   <img align="center" alt="Rafa-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
