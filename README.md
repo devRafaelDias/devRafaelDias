@@ -5,6 +5,7 @@
   <h2>Languages and Tools</h2>
   <img align="center" alt="Rafa-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"">
   <img align="center" alt="Rafa-Flutter" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Rafa-Dart" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
