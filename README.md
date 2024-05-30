@@ -8,8 +8,7 @@
   <img align="center" alt="Rafa-PY" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Rafa-flask" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"">
-  <img align="center" alt="Rafa-Flutter" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Rafa-Dart" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="Rafa-Linux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center" alt="Rafa-SQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
           
 </div>
